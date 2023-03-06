@@ -15,7 +15,8 @@
 #### sample:
 
 ![diamane](https://github.com/afnanmostafa/2D-systems/blob/main/diamane/example/10x10/cubic/final_structure_post_equil_LAMMPS/diamane_ab_2_10x10_view1.png)
-
+![germanene](https://github.com/afnanmostafa/2D-systems/blob/main/germanene/example/germanene_2_ab_buckle_10x10.png)
+![germanene2](https://github.com/afnanmostafa/2D-systems/blob/main/germanene/example/germanene_2_ab_buckle_10x10_view2.png)
 If you find any bug/edge case, please reach out to me at afnanmostafa102@gmail.com
 
 
